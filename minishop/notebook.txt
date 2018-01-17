@@ -1,0 +1,15 @@
+#1# 
+md5中 base64 类不能使用的解决方法：
+http://blog.sina.com.cn/s/blog_5a6efa330102v8st.html
+
+#2#
+sql 查询今天数据的方法
+https://www.cnblogs.com/fanling521/p/5501349.html
+
+#3#
+上传文件
+http://blog.csdn.net/xiongge2005/article/details/71629210
+
+#4#
+更新js代码，客户端缓存影响（更新缓存数据解决）
+https://jingyan.baidu.com/article/fcb5aff7b0ab26edaa4a7105.html
